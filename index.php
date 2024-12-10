@@ -1,4 +1,4 @@
 <?php
-echo"ola povo de deus";
+echo"ola mundo!";
 
 ?>
